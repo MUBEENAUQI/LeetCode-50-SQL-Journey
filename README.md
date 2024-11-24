@@ -17,11 +17,11 @@ Each day focuses on specific topics and problem-solving skills.
 
 ## Progress
 
-| Day | Problems Solved | Topics Covered            |
-| --- | --------------- | ------------------------- |
-| 1   | 5              |SELECT, WHERE, ORDER BY, Alias (AS), DISTINCT, LENGTH  |
-| 2   | **               | **  |
-| 3   | **                | **             |
+| Day | Problems Solved | Topics Covered            | Date           |
+| --- | --------------- | ------------------------- | ---------------|
+| 1   | 5              |SELECT, WHERE, ORDER BY, Alias (AS), DISTINCT, LENGTH  |25/11/2024|
+| 2   | **               | **  ||
+| 3   | **                | **             ||
 
 
 ## Connect
