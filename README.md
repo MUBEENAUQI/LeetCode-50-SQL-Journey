@@ -15,16 +15,11 @@ The LeetCode SQL 50 Study Plan focuses on building foundational and advanced SQL
 - Advanced String Functions / Regex / Clause
 Each day focuses on specific topics and problem-solving skills.
 
-## Solutions and Topics
-> Day 1: (Problem Names)
-- Problem 1: Name of Problem
-- Problem 2: Name of Problem
-
 ## Progress
 
 | Day | Problems Solved | Topics Covered            |
 | --- | --------------- | ------------------------- |
-| 1   | **               |**       |
+| 1   | 5              |SELECT, WHERE, ORDER BY, Alias (AS), DISTINCT, LENGTH  |
 | 2   | **               | **  |
 | 3   | **                | **             |
 
