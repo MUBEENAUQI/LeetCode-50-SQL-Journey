@@ -20,7 +20,7 @@ Each day focuses on specific topics and problem-solving skills.
 | Day | Problems Solved | Topics Covered            | Date           |
 | --- | --------------- | ------------------------- | ---------------|
 | 1   | 5              |SELECT, WHERE, ORDER BY, Alias (AS), DISTINCT, LENGTH  |25/11/2024|
-| 2   | 1               | Left join  | 01/12/2024|
+| 2   | 3              | Join (left, right, outer), Group BY, Count  | 01/12/2024|
 | 3   | **                | **             ||
 
 
