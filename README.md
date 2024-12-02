@@ -17,11 +17,11 @@ Each day focuses on specific topics and problem-solving skills.
 
 ## Progress
 
-| Day | Problems Solved | Topics Covered            | Date           |
-| --- | --------------- | ------------------------- | ---------------|
-| 1   | 5              |SELECT, WHERE, ORDER BY, Alias (AS), DISTINCT, LENGTH  |25/11/2024|
-| 2   | 3              | Join (left, right, outer), Group BY, Count  | 01/12/2024|
-| 3   | **                | **             ||
+| Day | Problems Solved | Topics Covered            | Date           | Question |
+| --- | --------------- | ------------------------- | ---------------|-----|
+| 1   | 5              |SELECT, WHERE, ORDER BY, Alias (AS), DISTINCT, LENGTH  |25/11/2024||
+| 2   | 3              | Join (left, right, outer), Group BY, Count  | 01/12/2024||
+| 3   | 1              | DATE_ADD             |3/12/2024|Rising Temperature|
 
 
 ## Connect
