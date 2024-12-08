@@ -35,10 +35,11 @@ Each problem focuses on a specific set of **SQL concepts** and helps develop pro
 | **9️**      | 30/11/2024    | **Rising Temperature (197)**                  | Single Table Join                               | 🟢 Easy           | **JOIN**          |
 | **10**      | 07/12/2024    | **Average Time of Process per Machine (1661)** | `ROUND()`, `AVG()`, `INNER JOIN`               | 🟢 Easy           | **JOIN**          |
 | **11**      | 08/12/2024    | **Employee Bonus (577)**                      | `LEFT JOIN`, `OR`, `IS NULL`                   | 🟢 Easy           | **JOIN**          |
-| **12**      | 08/12/2024    | **Students and Examinations (1280)**          | `CROSS JOIN`,  | 🟢 Easy  | **JOIN** |
+| **12**      | 08/12/2024    | **Students and Examinations (1280)**          | `CROSS JOIN`  | 🟢 Easy  | **JOIN** |
+| **13**      | 08/12/2024    | **Managers with at Least 5 Direct Reports (570)**          | self join  | 🟡 Medium  | **JOIN** |
+| **14**      | 08/12/2024    | **Confirmation Rate (1934)**          | `IFNULL()`  | 🟡 Medium  | **JOIN** |
 
-
----🟡 Medium
+---
 
 ## 🎯 Goals
 - ✅ Complete **50 LeetCode SQL problems**.
