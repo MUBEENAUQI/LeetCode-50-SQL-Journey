@@ -23,7 +23,7 @@ Each problem focuses on a specific set of **SQL concepts** and helps develop pro
 ## 🏆 Progress Tracker
 
 | 🆔 **Q.NO** | 📅 **Date**   | 🖋️ **Question**                                | 🧠 **Topics Covered**            | 🔥 **Difficulty**         | 🗂️ **Category** |
-|-------------|---------------|-----------------------------------------------|----------------------------------|---------------------------|------------------|
+|-------------|---------------|-----------------------------------------------------------------------------|----------------------------------|---------------------------|------------------|
 | 1️         | 25/11/2024    |  Recyclable and Low Fat Products (1757)     | `SELECT`, `WHERE`, `AND`         | 🟢 **Easy**               | **SELECT**       |
 | 2️         | 25/11/2024    |  Find Customer Referee (584)               | `OR`, `IS NULL`                  | 🟢 **Easy**               | **SELECT**       |
 | 3️         | 25/11/2024    |  Big Countries (595)                      | Logical expressions              | 🟢 **Easy**               | **SELECT**       |
@@ -34,7 +34,8 @@ Each problem focuses on a specific set of **SQL concepts** and helps develop pro
 | 8️         | 29/11/2024    |  Customer Who Visited but Did Not Make Transactions (1581) | `COUNT()`, `GROUP BY`, `AS`     | 🟢 **Easy**               | **JOIN**       |
 | 9️        | 30/11/2024    |  Rising Temperature (197)                | Single Table Join                | 🟢 **Easy**               | **JOIN**         |
 |   10       | 07/12/2024    |  Average Time of Process per Machine (1661) | `ROUND()`, `AVG()`, `INNER JOIN` | 🟢 **Easy**               | **JOIN**         |
-
+|   11      | 08/12/2024    |  Employee Bonus (577) | `LEFT JOIN`, `OR`, `IS NULL`   | 🟢 **Easy**               | **JOIN**         |
+|   12      | 08/12/2024    |  Students and Examinations (1280) | `CROSS JOIN`, `LEFT JOIN`, `GROUP BY`, `ORDER BY`, `COUNT()`  | 🟢 **Easy**               | **JOIN**         |
 ---
 
 ## 🎯 Goals
