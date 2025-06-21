@@ -27,7 +27,7 @@ Each problem focuses on a specific set of **SQL concepts** and helps develop pro
 | **1️**      | 25/11/2024    | **Recyclable and Low Fat Products (1757)**     | `SELECT`, `WHERE`, `AND`                        | 🟢 Easy           | **SELECT**        |
 | **2️**      | 25/11/2024    | **Find Customer Referee (584)**               | `OR`, `IS NULL`                                 | 🟢 Easy           | **SELECT**        |
 | **3️**      | 25/11/2024    | **Big Countries (595)**                       | Logical expressions                             | 🟢 Easy           | **SELECT**        |
-| **4️**      | 25/11/2024    | **Article Views I (1148)**                    | `ORDER BY`                            | 🟢 Easy           | **SELECT**        |
+| **4️**      | 25/11/2024    | **Article Views I (1148)**                    | `ORDER BY`, DISTINCT                            | 🟢 Easy           | **SELECT**        |
 | **5️**      | 25/11/2024    | **Invalid Tweets (1683)**                     | `LENGTH()`                            | 🟢 Easy           | **SELECT**        |
 | **6️**      | 27/11/2024    | **Replace Employee ID With Unique Identifier (1378)** | `LEFT JOIN`, `ALIAS`                      | 🟢 Easy           | **JOIN**          |
 | **7️**      | 28/11/2024    | **Product Sales Analysis I (1068)**           | `LEFT JOIN`                                     | 🟢 Easy           | **JOIN**          |
