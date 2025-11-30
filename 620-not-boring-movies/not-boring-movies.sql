@@ -1,3 +1,5 @@
+# non boring, odd ID'ed movies in descending rating
+
 SELECT id, movie, description, rating
 FROM Cinema
 WHERE MOD(id, 2) = 1
