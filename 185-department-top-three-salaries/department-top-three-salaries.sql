@@ -1,21 +1,15 @@
 # Write your MySQL query statement below
 
--- Select Final.Department, Final.Employee, Final.Salary, 
--- Rank() OVER (Partition by d.name order by e.salary DESC) as rnk
--- FROM
--- (Select d.name as Department, e.name as Employee, e.salary as Salary from Employee e 
--- left join Department d
--- on e.departmentId = d.id) AS Final
+SELECT Department,Employee,Salary FROM
+(SELECT D.name as Department, E.name as Employee, E.salary as Salary,
+DENSE_RANK() OVER (PARTITION BY D.name ORDER BY E.salary DESC) as Ranking 
+FROM Employee E
+JOIN Department D
+on E.departmentId = D.id) RE
+where Ranking<=3
 
 
-Select Final.Department, Final.Employee, Final.Salary
-FROM 
-(Select d.name as Department, e.name as Employee, e.salary as Salary,
- Dense_Rank() OVER (Partition by d.name order by e.salary DESC) as rnk
- from Employee e 
- left join Department d
- on e.departmentId = d.id) AS Final
- WHERE Final.rnk<4
+
 
 
 
